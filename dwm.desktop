@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dwm
+Comment=Dynamic window manager
+Exec=env GDK_SCALE=2 GDK_DPI_SCALE=0.5 QT_AUTO_SCREEN_SCALE_FACTOR=1 QT_QPA_PLATFORMTHEME=qt5ct RUST_BACKTRACE=1 dwm
+Icon=dwm
+Type=XSession
